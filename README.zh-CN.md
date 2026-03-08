@@ -27,6 +27,12 @@
 
 如需商业用途，请在 [Ultralytics 授权许可](https://www.ultralytics.com/license)申请企业许可证。
 
+## 仓库简介
+
+- 提供开箱即用的 YOLO 系列模型（如 YOLOv8、YOLO11、YOLO26）的源码、预训练权重、配置和示例，用于目标检测、分割、分类、姿态估计和多目标跟踪。
+- 支持从数据准备、训练、验证到推理和模型导出（如 ONNX、TensorRT、CoreML 等）的完整流水线，既有 Python API 也有 CLI (`yolo`)。
+- 内置丰富文档和教程，涵盖云端/本地部署、加速与量化、数据集管理和生产级集成，方便快速落地。
+
 <a href="https://platform.ultralytics.com/ultralytics/yolo26" target="_blank">
   <img width="100%" src="https://raw.githubusercontent.com/ultralytics/assets/refs/heads/main/yolo/performance-comparison.png" alt="YOLO26 performance plots">
 </a>
